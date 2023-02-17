@@ -4,7 +4,7 @@ The repo license is, by default:
 
 	CC-BY-4.0
 
-Using these contents for discriminating, pornographic or disinformating purposes is prohibited by the owner of this repository.
+Using these contents for _discriminating_, _pornographic_ or _disinformating_ purposes is prohibited by the owner of this repository.
 
 All the scenes are imagined and designed by __NKevinVI__.
 
